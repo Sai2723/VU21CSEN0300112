@@ -1,0 +1,25 @@
+/* src/App.css */
+body {
+  background-color: #eaeaea;
+}
+
+.ant-layout-header {
+  background-color: #001529;
+}
+
+.ant-menu-item a {
+  color: white;
+}
+
+.ant-layout-content {
+  min-height: 80vh;
+}
+
+.ant-table-thead > tr > th {
+  background-color: #fafafa;
+  text-align: center;
+}
+
+.ant-table-tbody > tr > td {
+  text-align: center;
+}
